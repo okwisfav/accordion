@@ -1,3 +1,4 @@
+//select all class 
 let accordions = document.querySelectorAll('.accordion-container .accordion');
 accordions.forEach(acco =>{
     acco.onclick = () =>{
